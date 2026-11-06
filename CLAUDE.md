@@ -1,0 +1,1 @@
+Read `AGENT_GUIDE.md` before any animation, mocap or water work: it has the owner's rules, the mocap pipeline, the corrections that must not be undone, the self-test loop, and pitfalls already hit. Read `brief_bending_prototype.md` for the brief.
